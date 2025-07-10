@@ -1,0 +1,12 @@
+
+<Projeto>
+  <Nome>Padaria Delivery C#</Nome>
+  <Descricao>Sistema de pedidos para padaria delivery usando C# com orientação a objetos.</Descricao>
+  <Autor>Aline Ramos</Autor>
+  <DataCriacao>2025</DataCriacao>
+  <Recursos>
+    <Recurso>Cadastro de cliente</Recurso>
+    <Recurso>Lista de produtos com preço</Recurso>
+    <Recurso>Montagem e cálculo de pedidos</Recurso>
+  </Recursos>
+</Projeto>
